@@ -1,7 +1,5 @@
-# Vue 3 + Vite
+![LOGO](https://raw.githubusercontent.com/ProjectRTSN/Hematite/main/hematite.png?token=GHSAT0AAAAAAB22DDBEMK7336LH6S5IPBACY3YKFQQ)
+# Hematite
+Hematite是ProjectRTSN官网的前端程序
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+关于工作原理的说明，请参阅[Vue.js文档](https://vuejs.org)
