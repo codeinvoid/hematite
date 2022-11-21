@@ -1,9 +1,10 @@
 <template>
-  
+
+  <Footer/>
 </template>
   
 <script setup>
-  
+  import Footer from '../components/Footer.vue'
   window.addEventListener('load', function () {
     var location = 'https://wiki.pkgho.com'
     Turbo.visit(location)
