@@ -2,7 +2,6 @@ version: 2.1
 
 orbs:
   node: circleci/node@4.1
-  codecov: codecov/codecov@3.2.3
 
 
 jobs:
@@ -11,7 +10,6 @@ jobs:
       - image: cimg/node:16.13 
     steps:
       - checkout
-      - codecov/upload
       - run: echo VITE_BUILD_BRANCH = ${CIRCLE_BRANCH} >> .env
       - run: echo VITE_BUILD_HASH = ${CIRCLE_SHA1} >> .env
       - run: cat .env
