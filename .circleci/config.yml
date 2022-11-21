@@ -12,8 +12,8 @@ jobs:
     steps:
       - checkout
       - codecov/upload
-      - run: echo VITE_BUILD_BRANCH = ${CIRCLE_BRANCH} > .env
-      - run: echo VITE_BUILD_HASH = ${CIRCLE_SHA1} > .env
+      - run: echo VITE_BUILD_BRANCH = ${CIRCLE_BRANCH} >> .env
+      - run: echo VITE_BUILD_HASH = ${CIRCLE_SHA1} >> .env
       - run: cat .env
       - node/install-packages:
           pkg-manager: yarn
