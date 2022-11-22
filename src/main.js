@@ -2,7 +2,7 @@ import { createApp } from 'vue'
 import './style.css'
 import App from './App.vue'
 import Index from './pages/Index.vue'
-import Footer from './components/Footer.vue'
+import Footer from './components/footer/Footer.vue'
 import { createRouter, createWebHistory } from 'vue-router'
 import 'uno.css'
 import { Application } from "@hotwired/stimulus"
