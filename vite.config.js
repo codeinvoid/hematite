@@ -9,10 +9,12 @@ import presetTagify from '@unocss/preset-tagify'
 import { presetHeroPatterns } from '@julr/unocss-preset-heropatterns'
 import { presetScrollbar } from 'unocss-preset-scrollbar'
 import { presetTypography } from 'unocss'
-// https://vitejs.dev/config/
+import UnheadVite from '@unhead/addons/vite'
+
 export default defineConfig({
   plugins: [
     vue(),
+    UnheadVite(),
     Components(),
     Unocss({
       presets: [

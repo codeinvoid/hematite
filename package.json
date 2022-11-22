@@ -11,6 +11,7 @@
   "dependencies": {
     "@hotwired/stimulus": "^3.1.1",
     "@hotwired/turbo": "^7.2.4",
+    "@unhead/addons": "^1.0.4",
     "@unocss/preset-attributify": "^0.46.5",
     "@unocss/preset-mini": "^0.46.5",
     "@unocss/preset-tagify": "^0.46.5",
@@ -23,6 +24,7 @@
     "node-sass": "^8.0.0",
     "sass": "^1.56.1",
     "sass-loader": "^13.2.0",
+    "unhead": "^1.0.4",
     "unocss-preset-scrollbar": "^0.2.1",
     "unplugin-vue-components": "^0.22.9",
     "vite-plugin-pages": "^0.27.1",

@@ -1,15 +1,21 @@
 <template>
-
-  <Footer />
+<Header/>
+<Footer/>
 </template>
   
 <script setup>
 import Footer from '../components/footer/Footer.vue'
-window.addEventListener('load', function () {
-  var location = 'https://wiki.pkgho.com'
-  Turbo.visit(location)
+import Header from '../components/header/Header.vue';
+import { useHead } from 'unhead'
+useHead({
+  title: 'My Page',
+  meta: [
+    {
+      name: 'description',
+      content: 'My page description',
+    },
+  ],
 })
-
 </script>
   
   

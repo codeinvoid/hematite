@@ -38,18 +38,10 @@ a:visited {
     color: #FFF;
     transition: all 250ms linear;
     transition-timing-function: ease-in-out;
+    text-decoration:inherit;
 }
 
 a:hover {
     border-bottom: 2px solid #FFFFFF;
-}
-
-.cls-1 {
-    fill: #FFF;
-}
-
-.cls-2 {
-    fill: #FFF;
-    transform: translateY(-70%)
 }
 </style>
