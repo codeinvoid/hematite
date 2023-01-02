@@ -3,6 +3,7 @@ import App from './App.vue'
 const index = () => import('./pages/Index.vue')
 const game = () => import('./pages/Game.vue')
 const anime = () => import('./pages/Anime.vue')
+const termsofuse = () => import('./pages/TermsOfUse.vue')
 import { createRouter, createWebHistory } from 'vue-router'
 import { createHead } from "unhead"
 import 'uno.css'
@@ -18,6 +19,7 @@ const routes = [
     { path: '/', component: index },
     { path: '/anime', component: anime },
     { path: '/game', component: game },
+    { path: '/termsofuse', component: termsofuse }
 ]
 const router = createRouter({
     history: createWebHistory(),

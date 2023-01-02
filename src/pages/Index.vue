@@ -6,16 +6,6 @@
 <script setup>
 import Footer from '../components/footer/Footer.vue'
 import Header from '../components/header/Header.vue';
-import { useHead } from 'unhead'
-useHead({
-  title: 'My Page',
-  meta: [
-    {
-      name: 'description',
-      content: 'My page description',
-    },
-  ],
-})
 </script>
   
   

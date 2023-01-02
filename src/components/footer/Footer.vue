@@ -72,6 +72,7 @@ import NavFoo from './NavFoo.vue'
                             <NavFoo>
                                 <NavItem href="/api">接口</NavItem>
                                 <NavItem href="https://wiki.pkgho.com/" target="_blank">维基</NavItem>
+                                <NavItem href="/termsofuse">服务条款(服务器)</NavItem>
                             </NavFoo>
                         </Nav>
                         <Nav>
