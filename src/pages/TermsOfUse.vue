@@ -172,12 +172,9 @@
             </div>
         </div>
     </div>
-
-    <Footer />
 </template>
       
 <script setup>
-import Footer from '../components/footer/Footer.vue'
 import Header from '../components/header/Header.vue';
 import { useHead } from 'unhead'
 useHead({
