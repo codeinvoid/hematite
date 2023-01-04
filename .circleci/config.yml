@@ -34,7 +34,7 @@ jobs:
       - deploy:
           name: Deploy Over SSH
           command: | 
-            if [ "${CIRCLE_TAG}" =~ ^release.* ]; then
+            if [[] "${CIRCLE_TAG}" =~ ^release.* ]]; then
                 ssh-keyscan 101.32.221.189 >> ~/.ssh/known_hosts
                 rsync -av --delete dist/ $SSH_USER@$SSH_IP:/root/caddy/com/dist/
                 ssh $SSH_USER@$SSH_IP "cd ~/caddy/wiki;caddy reload"
