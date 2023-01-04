@@ -27,7 +27,7 @@ jobs:
       - run:
           command: yarn build
           name: Build app
-      - run: sudo apt-get update && sudo apt-get install rsync tree
+      - run: sudo apt-get update && sudo apt-get install rsync
       - add_ssh_keys:
           fingerprints:
             - "3a:45:11:f4:4a:89:7c:8f:ad:85:a0:7f:88:7a:ba:b7"
@@ -35,13 +35,8 @@ jobs:
           name: Fix ssh Could not resolve hostname
           command: ssh-keyscan 101.32.221.189 >> ~/.ssh/known_hosts
       - run:
-          name: Tree
-          command: ls
-      - run:
           name: Deploy Over SSH
           command: rsync -av --delete dist/ $SSH_USER@$SSH_IP:/root/caddy/com/dist/
       - run:
           name: Reload Caddy
-          command: |
-            cd ~/caddy/wiki
-            caddy reload
+          command: ssh $SSH_USER@$SSH_IP "cd ~/caddy/wiki;caddy reload"
