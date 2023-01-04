@@ -31,7 +31,7 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "3a:45:11:f4:4a:89:7c:8f:ad:85:a0:7f:88:7a:ba:b7"
-      - deploy:
+      - run:
           name: Deploy Over SSH
           command: | 
             if [[ "${CIRCLE_TAG}" =~ ^release.* ]]; then
@@ -48,3 +48,4 @@ jobs:
           path: build.zip
           destination: build.zip
 
+# VS Code Extension Version: 1.5.1
