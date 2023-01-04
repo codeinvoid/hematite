@@ -54,7 +54,7 @@ jobs:
       - run:
           name: Deploy Over SSH
           command: |
-            rsync -avce -–delete ./dist ssh -o "StrictHostKeyChecking no" $SSH_USER@$SSH_IP:~/caddy/com/dist
+            rsync -avce --delete dist/ ssh -o "StrictHostKeyChecking no" $SSH_USER@$SSH_IP:~/caddy/com/dist/
       - run:
           name: Reload Caddy
           command: |
