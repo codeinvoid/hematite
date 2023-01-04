@@ -1,5 +1,5 @@
 workflows:
-  version: 2.1
+  version: 2
   build-deploy:
     jobs:
       - build
@@ -10,6 +10,11 @@ workflows:
             branches:
               only: main
 
+executors:
+  executor:
+    docker:
+      - image: cimg/node:16.13
+
 version: 2.1
 orbs:
   node: circleci/node@4.1
@@ -17,8 +22,7 @@ orbs:
 
 jobs:
   build:
-    docker:
-      - image: cimg/node:16.13
+    executor: executor
     steps:
       - checkout
       - run: echo VITE_BUILD_BRANCH = ${CIRCLE_BRANCH} > .env
@@ -35,25 +39,24 @@ jobs:
       - store_artifacts:
           path: build.zip
           destination: build.zip
-      - save_cache:
-          key: v1-dependencies-{{ checksum "./dist/index.html" }}
-          paths:
-            - ./dist
   deploy:
-    docker:
-      - image: cimg/node:16.13
+    executor: executor
     steps:
       - checkout
-      - restore_cache:
-          keys:
-            - v1-dependencies-{{ checksum "./dist/index.html" }}
-            - v1-dependencies
       - run: sudo apt-get update && sudo apt-get install rsync
       - add_ssh_keys:
           fingerprints:
             - "3a:45:11:f4:4a:89:7c:8f:ad:85:a0:7f:88:7a:ba:b7"
-      - run: echo $REMOTE_HOSTKEY >> ~/.ssh/known_hosts
+      - run:
+          name: Fix ssh Could not resolve hostname
+          command: |
+            ssh-keyscan 101.32.221.189 >> ~/.ssh/known_hosts
       - run:
           name: Deploy Over SSH
           command: |
-            rsync -avce ssh $SSH_USER@$SSH_IP:~/caddy/com/
+            rsync -avcez –delete ./dist ssh -o "StrictHostKeyChecking no" $SSH_USER@$SSH_IP:~/caddy/com/dist
+      - run:
+          name: Reload Caddy
+          command: |
+            cd ~/caddy/wiki
+            caddy reload
