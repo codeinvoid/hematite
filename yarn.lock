@@ -137,6 +137,13 @@
   resolved "https://registry.npmjs.org/@julr/unocss-preset-heropatterns/-/unocss-preset-heropatterns-0.0.2.tgz"
   integrity sha512-TuGp47h0NJ4C0yhySMEQl06QyF2922arBes2zaAxnh2s+efkeW0glHwkvGE/Cc4JAY+51k8QL8FktyeIpl7erw==
 
+"@markdoc/markdoc@^0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@markdoc/markdoc/-/markdoc-0.2.1.tgz#b5a63a692ef38b87ee572f1697bd6b4f18d7f6f5"
+  integrity sha512-3hr9pggv1h5Q4G50/T3MTnMsl3ejHbk0apVIwxU4x5CFCn+VQnvtJh1vgKZPvMwA+ys67SDUiZz9GD9ccg6LpQ==
+  optionalDependencies:
+    "@types/markdown-it" "12.2.3"
+
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
   resolved "https://registry.npmjs.org/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz"
@@ -233,6 +240,24 @@
   version "1.0.0"
   resolved "https://registry.npmjs.org/@types/estree/-/estree-1.0.0.tgz"
   integrity sha512-WulqXMDUTYAXCjZnk6JtIHPigp55cVtDgDrO2gHRwhyJto21+1zbVCtOYB2L1F9w4qCQ0rOGWBnBe0FNTiEJIQ==
+
+"@types/linkify-it@*":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@types/linkify-it/-/linkify-it-3.0.2.tgz#fd2cd2edbaa7eaac7e7f3c1748b52a19143846c9"
+  integrity sha512-HZQYqbiFVWufzCwexrvh694SOim8z2d+xJl5UNamcvQFejLY/2YUtzXHYi3cHdI7PMlS8ejH2slRAOJQ32aNbA==
+
+"@types/markdown-it@12.2.3":
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/@types/markdown-it/-/markdown-it-12.2.3.tgz#0d6f6e5e413f8daaa26522904597be3d6cd93b51"
+  integrity sha512-GKMHFfv3458yYy+v/N8gjufHO6MSZKCOXpZc5GXIWWy8uldwfmPn98vp81gZ5f9SVw8YYBctgfJ22a2d7AOMeQ==
+  dependencies:
+    "@types/linkify-it" "*"
+    "@types/mdurl" "*"
+
+"@types/mdurl@*":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@types/mdurl/-/mdurl-1.0.2.tgz#e2ce9d83a613bacf284c7be7d491945e39e1f8e9"
+  integrity sha512-eC4U9MlIcu2q0KQmXszyn5Akca/0jrQmwDRgpAMJai7qBWq4amIQhZyNau4VYGtCeALvW1/NtjzJJ567aZxfKA==
 
 "@types/minimist@^1.2.0":
   version "1.2.2"
@@ -3767,6 +3792,13 @@ unplugin-ast@^0.5.5:
     "@rollup/pluginutils" "^4.2.1"
     magic-string "^0.26.2"
     unplugin "^0.9.4"
+
+unplugin-markdoc@^0.2.4:
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/unplugin-markdoc/-/unplugin-markdoc-0.2.4.tgz#7685fac8a3e03098ef3edd5a41f0527fb12c1853"
+  integrity sha512-aHR4h85S5VTf+dL5YWl0XzEvn+V0DB1LK2Tca4h76lSdtoPfNZYMvmDImXQzZZA2ygB0nsnBdMpHst1wacOixA==
+  dependencies:
+    unplugin "^1.0.0"
 
 unplugin-vue-components@^0.22.9:
   version "0.22.9"

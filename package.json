@@ -11,6 +11,7 @@
   "dependencies": {
     "@hotwired/stimulus": "^3.1.1",
     "@hotwired/turbo": "^7.2.4",
+    "@markdoc/markdoc": "^0.2.1",
     "@unhead/addons": "^1.0.4",
     "@unocss/preset-attributify": "^0.46.5",
     "@unocss/preset-mini": "^0.46.5",
@@ -26,6 +27,7 @@
     "sass-loader": "^13.2.0",
     "unhead": "^1.0.4",
     "unocss-preset-scrollbar": "^0.2.1",
+    "unplugin-markdoc": "^0.2.4",
     "unplugin-vue-components": "^0.22.9",
     "vite-plugin-pages": "^0.27.1",
     "vue": "^3.2.41",

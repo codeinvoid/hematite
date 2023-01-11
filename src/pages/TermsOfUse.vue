@@ -1,176 +1,8 @@
 <template>
     <Header />
-    <div class='typora-export'>
-        <div class='typora-export-content'>
-            <div id='write' class=''>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-                <h1 id='服务器游玩说明'><span>服务器服务条款</span></h1>
-                <p><span>凡使用RSN相关服务者，均已默认阅读并同意以下条款。</span></p>
-                <h2 id='群聊社群使用条款'><span>群聊社群使用条款</span></h2>
-                <ol start=''>
-                    <li>
-                        <p><strong><span>适用范围</span></strong><span>：“群聊及社群”包括但不限于</span></p>
-                        <ul>
-                            <li><span>服务器腾讯QQ群聊（494568169）</span></li>
-                            <li><span>Minecraft服务器内聊天</span></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <p><strong><span>推荐事项</span></strong><span>：</span></p>
-                        <ul>
-                            <li><span>修改自己的群名片为游戏时使用的Minecraft游戏ID，以便辨识及管理。</span></li>
-                            <li><span>适度玩梗，少玩烂梗。</span></li>
-                            <li><span>上传文件至相应分类的文件夹。</span></li>
-                            <li><span>开玩笑请把握轻重，若对方反感的情况下仍不表现出歉意，按人身攻击处理。</span></li>
-                            <li><span>任何玩家可以发起群投票，请勿带有不雅等侮辱言论，投票时间不得超过24小时，投票开始后48小时内必须自行删除。</span></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <p><strong><span>您同意并遵守以下聊天规则</span></strong><span>：</span></p>
-                        <ol start=''>
-                            <li><span>不发送非法链接到外站或@群成员的JSON卡片。</span></li>
-                            <li><span>不发送任何未经 RSN管理组 许可的广告。</span></li>
-                            <li><span>不发送引战、地图炮、人身攻击、诋毁他人等不当言论。</span></li>
-                            <li><span>不发送暴力、血腥、三俗、色情、斗图、刷屏、复读、大图占屏、频繁广告、恶意发放刷屏红包等内容。</span></li>
-                            <li><span>不讨论或分享游戏作弊软件及作弊整合包。</span></li>
-                            <li><span>不讨论“社、政”相关内容 。</span></li>
-                            <li><span>不大量@群成员，次数以三次为限。</span></li>
-                            <li><span>不恶意刷屏或做出令群成员普遍反感或激起众怒等争议行为。</span></li>
-                            <li><span>不未经当事人或所包含群员同意转发聊天记录。</span></li>
-                            <li><span>不发送散播谣言或发布对他人进行诱导的言论，禁止把群名片改为会引起误解的内容。</span></li>
-                            <li><span>禁止反复询问群公告已经写了的东西。</span></li>
-                            <li><span>禁止未经他人允许泄露他人的 真实姓名、手机号、家庭住址、身份证号 等隐私信息，根据当事人的意愿处以永久禁言/移出群聊的处罚。</span></li>
-                        </ol>
-                    </li>
-                    <li>
-                        <p><strong><span>将会执行的事项</span></strong><span>：</span></p>
-                        <ul>
-                            <li><span>不定期清理不活跃成员，若有特殊情况者请在群名片备注。</span></li>
-                        </ul>
-                    </li>
-                </ol>
-                <h2 id='minecraft服务器条款'><span>Minecraft服务器条款</span></h2>
-                <ol start=''>
-                    <li>
-                        <p><strong><span>所有权和有限许可</span></strong><span>：</span></p>
-                        <ul>
-                            <li>
-                                <p><strong><span>所有权</span></strong>
-                                    <span>服务由 ProjectRTSN 拥有或许可，并受知识产权和其他所有权法律的保护。ProjectRTSN
-                                        保留对服务的所有权利、所有权和利益，包括但不限于本条款中未明确授予您的所有知识产权和其他专有权利。您对服务的许可使用受ProjectRTSN知识产权的限制。</span>
-                                </p>
-                            </li>
-                            <li>
-                                <p><strong><span>许可证</span></strong>
-                                    <span>在您同意并持续遵守这些条款和任何其他相关政策的前提下，ProjectRTSN
-                                        授予您非商业、非独占、不可转让、可撤销的有限许可，但须遵守这些条款的限制，以出于您自己的娱乐目的访问和使用服务。您同意不会将服务用于任何其他目的。</span>
-                                </p>
-                            </li>
-                            <li>
-                                <p><strong><span>账号</span></strong></p>
-                                <ol start=''>
-                                    <li><span>您可以通过您的微软帐号（“帐号”）访问 RSN
-                                            服务器，并且您同意受这些条款的约束。如果您与其他用户共享帐户，则本协议适用于该帐号的所有用户。帐户所有者有责任确保所有用户都已阅读并遵守这些条款。</span>
-                                    </li>
-                                    <li><span>我们可能会永久删除其服务上被视为不活跃的帐号数据。当帐号在1年内未使用时，将被视为不活跃帐号。</span></li>
-                                    <li><span>您同意，如果您的帐户数据被删除，您可能会无法访问与该帐户相关的任何信息。如果您想删除您的帐号数据，请向以下联系人发送邮件：</span><a
-                                            href='mailto:issue@p-io.org' target='_blank' class='url'>issue@p-io.org</a>
-                                    </li>
-                                    <li><span>服务器不提供正版购买的服务义务，请玩家私下交流，自行寻找服务渠道。</span></li>
-                                </ol>
-                            </li>
-                            <li>
-                                <p><strong><span>许可限制</span></strong>
-                                    <span>严禁违反法律、本服务条款或本许可限制使用或协助和教唆他人使用服务，并可能导致ProjectRTSN自行判断立即撤销您的有限许可并删除您的帐户，或可能使您承担相关责任。</span>
-                                </p>
-                                <p><span>您承认您不会直接或间接执行以下操作：</span></p>
-                                <ul>
-                                    <li><span>适用任何未经服务器明确授权的游戏方法作弊，影响游戏玩法，或向您或任何其他用户授予您或任何其他用户相对于未使用这些方法的其他玩家的任何优势，包括但不限于漏洞利用，作弊等。</span>
-                                    </li>
-                                    <li><span>未经服务器允许并冒充、自称官方至其他群聊、网站、服务宣传或分发IP地址。限制或禁止任何其他用户使用和享有服务。</span></li>
-                                    <li><span>搜集或以其他方式收集他人的相关信息，包括电子邮件地址。</span></li>
-                                    <li><span>篡改或删除任何版权管理信息，例如，上传文件中包含的作者归属、法律或其他适当声明、软件或其他材料来源的所有权指示或标示。</span></li>
-                                    <li><span>上传含有病毒、木马、蠕虫、定时炸弹、清除器、损坏文件或任何其他可能损害他人计算机操作或他人财产的类似软件或程序的文件。</span></li>
-                                    <li><span>诽谤、辱骂、骚扰、恐吓、威胁其他人或以其他方式侵犯其他人的合法权利（如隐私权和公开权）。</span></li>
-                                    <li><span>私下使用现实金钱交易，用于任何服务器物品交换、游戏内服务、网站服务、广告宣传、组织或推广任何形式的非法活动。</span></li>
-                                    <li><span>以未经服务器授权的任何方式宣传，鼓励或参与任何涉及黑客攻击，网络钓鱼，分发，修改服务的活动。</span></li>
-                                    <li><span>创建或使用通过使用现有游戏错误、未记录的问题或服务的设计缺陷创建或复制的任何游戏内物品。</span></li>
-                                    <li><span>恶意PVP，娱乐性质的PVP请以双方同意为前提，并且请在结束后归还物品或开始前商量好奖罚规定。</span></li>
-                                    <li><span>蓄意封堵其他玩家行动的通道，如堵公共传送点，封堵挂机玩家，封堵其他玩家的设备，封堵其他玩家的储物设备等。</span></li>
-                                    <li><span>大量无偿赠送物品或低价出售物品或高价垄断某种物品，破坏游戏平衡，冲击服务器经济体系等。</span></li>
-                                    <li><span>将服务用于任何非法用途或这些条款、条件和声明禁止的用途。</span></li>
-                                    <li><span>在使用服务时，不得以任何方式损坏、禁用、过载或妨碍任何服务器或连接到任何服务器的SSH，也不得干扰任何其他用户使用和享有任何服务。</span>
-                                    </li>
-                                    <li><span>尝试通过入侵、盗取密码或任何其他手段擅自使用任何服务、其他帐户、计算机系统或连接到任何 服务器或任何服务的SSH。</span></li>
-                                    <li><span>通过任何手段获取或尝试获取服务未明确提供的任何资料或信息。</span></li>
-                                    <li><span>使用、下载或以其他方式复制、或者向其他人或实体（免费或收费）提供服务用户或其他用户的任何目录、使用信息或其部分信息。</span></li>
-                                    <li><span>规避服务的任何访问或可用性限制。</span></li>
-                                    <li><span>发送垃圾邮件或进行网络钓鱼活动。垃圾邮件是指不想要的或未经请求的大量电子邮件、帖子、联系请求、短信、即时消息或类似的电子通信。</span>
-                                    </li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <p><strong><span>隐私相关</span></strong><span>：</span></p>
-                        <ol start=''>
-                            <li><span>本服务器会为您妥善保存一切您提交或以其它渠道导致服务器获取到的关于您的个人隐私信息，并保护您的个人信息不被滥用以及发布(有相关司法部门请求协助调查的情况除外)。</span>
-                            </li>
-                            <li><span>您同意服务器获取您Minecraft账号的UUID、用户名、皮肤资源。</span></li>
-                            <li><span>在对涉嫌违反这些条款的行为进行调查时，服务器保留对您的内容进行审查以便解决问题的权利。</span></li>
-                            <li><span>您的数据将储存在中国。</span></li>
-                        </ol>
-                    </li>
-                    <li>
-                        <p><strong><span>服务可用性和终止</span></strong><span>：</span></p>
-                        <p><span>您同意并知悉：</span></p>
-                        <ul>
-                            <li><span>可全权酌情决定提供与服务任何部分相关的后续修订、版本、增强、修改、升级或补丁。</span></li>
-                            <li><span>全权负责因使用我们的服务而可能产生的任何互联网连接和移动费用。</span></li>
-                            <li><span>服务器可能无法在所有国家或地区提供服务。</span></li>
-                            <li><span>服务器的网络延迟、带宽不受保证。</span></li>
-                            <li><span>如果服务终止或暂停，任何游戏数据将被没收，您可选择获得在本协议终止之前所支付任何金额的任何退款。此外，您将无法访问服务。</span></li>
-                            <li><span>对服务的访问可能会因服务器网络、硬件、经济状况或之外的原因而中断，并不能也不保证您能够随时使用服务。</span></li>
-                            <li><span>管理员无法时刻为玩家提供帮助，请尽量自行学会解决问题。</span></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <p><strong><span>服务器规则</span></strong><span>：</span></p>
-                        <ul>
-                            <li><span>服务器聊天栏同样适用“群聊社群使用条款”。</span></li>
-                            <li><span>本服务器同意并遵守</span><a href='https://www.minecraft.net/zh-hans/eula'><span>Minecraft
-                                        EULA（Minecraft最终用户协议）</span></a><span>。</span></li>
-                            <li><span>声明：以任何方式分发修改版的Minecraft客户端违反EULA，本服务器对于玩家自行上传的整合包所造成的一切后果概不负责。本服务器对一切用户发表内容保留将应权利人要求删除的行为的权力。</span>
-                            </li>
-                            <li><span>服务器是公益服，仅支持无偿捐助。您同意并知悉无偿捐助将不会给您带来任何回报或报酬。</span></li>
-                            <li><span>一切对其他玩家不良行为、服务器制度漏洞、服务器bug、服务器改进意见的举报及提出，如果确认属实或合理，都将会视情况给予奖励。</span></li>
-                            <li><span>如果遇到了失误导致的爆炸、破坏请尽可能复原地形，如果无法恢复请联系管理员或服主。</span></li>
-                            <li><span>任何因玩家个人原因使游戏数据造成损害的，服务器不承担责任。</span></li>
-                            <li><span>任何建筑、机器的设立不得损害他人利益。服务器将有权拆除及其丑陋，影响到主世界美观的、弃坑的玩家的、过久时间没有动工的、烂尾的建筑。本服务器对一切用户发表内容保留将应权利人要求拆除的行为的权力。</span>
-                            </li>
-                            <li><span>由于被其他玩家激怒而导致违反条款，一切责任由激怒方承担，双方冷静后可以与腐竹交涉决定责任分担。</span></li>
-                            <li><span>对于不懂的设备使用请先询问建造者，若机器损坏请及时报修。</span></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <p><strong><span>协议期限</span></strong><span>：除非本协议修改或修订，否则本协议及其条款应继续有效。</span></p>
-                    </li>
-                    <li>
-                        <p><strong><span>不可抗力</span></strong><span>：任何一方均不对不可抗力而导致的损失负责。</span></p>
-                    </li>
-                    <li>
-                        <p><strong><span>保证相关</span></strong><span>：对于因使用或执行服务、软件、文档、提供或未能提供服务，或者服务提供的信息引起的或与其相关的使用中断、数据或利润损失，无论是由合同行为、过失或其他侵权行为导致，服务器或其供应商对由此造成的任何特别的、间接的、后果性损害或任何其他损害概不负责。</span>
-                        </p>
-                    </li>
-                    <li>
-                        <p><strong><span>相关标志的授权</span></strong><span>：仅供非商业性使用。</span></p>
-                    </li>
-                </ol>
-                <p><span>最终解释权归RSN服务器及服务器管理组、ProjectRTSN所有。</span></p>
-            </div>
-        </div>
+    <div class='typora-export'><div class='typora-export-content'>
+    <div id='write'  class=''><h1 id='服务器服务条款'><span>服务器服务条款</span></h1><p><span>本条款适用于“ProjectRTSN社团”的所有用户。“ProjectRTSN”于下方将简称为“我们”。</span></p><h2 id='接受条款'><span>接受条款</span></h2><p><span>在您使用我们的任何相关服务时，需遵守以下使用条款（“TOU”）。 我们保留随时更新 TOU 的权利，恕不另行通知。单击网页底部的“使用条款”超文本链接，即可查看最新版本的TOU。</span></p><h2 id='服务说明'><span>服务说明</span></h2><p><span>通过我们的服务，您能够访问各种资源、服务，包括服务器、网站、API、下载、社群等（以下统称为“服务”）。 服务（包括任何更新、增强、新功能或任何新资产）不论以任何介质提供均须受本TOU约束。</span></p><h2 id='个人和非商业用途限制'><span>个人和非商业用途限制</span></h2><p><span>除非另有说明，服务只适用于个人与非商业用途。 未经我们事先书面许可，对于从服务取得的任何信息、软件、产品或服务，您不得对其修改、复制、分发、传送、公开展示、执行、复制、公布、许可、转让、销售或基于以上内容创建衍生作品（除非用于您自己的个人非商业用途）。</span></p><h2 id='群聊社群使用条款'><span>群聊社群使用条款</span></h2><h3 id='适用范围'><span>适用范围</span></h3><p><span>“群聊及社群”包括但不限于:</span></p><ul><li><span>腾讯QQ群聊（494568169）</span></li><li><span>Minecraft服务器内聊天</span></li></ul><h3 id='注意事项'><span>注意事项</span></h3><ol start='' ><li><span>适度玩梗，少玩烂梗。</span></li><li><span>上传文件时请分类至相应的文件夹。</span></li><li><span>请修改自己的群名片为游戏时使用的Minecraft游戏ID，以便辨识及管理。</span></li><li><span>开玩笑请把握轻重，若对方反感的情况下仍不表现出歉意，将按人身攻击处理。</span></li><li><span>任何玩家可以发起群投票，请勿带有不雅或侮辱相关言论，投票时间不得超过48小时，投票开始后72小时内必须自行删除。</span></li></ol><h3 id='聊天守则'><span>聊天守则</span></h3><ol start='' ><li><span>不讨论“社、政”相关内容 。</span></li><li><span>不发送任何未经我们许可的广告。</span></li><li><span>不持续@群成员，次数以三次为限。</span></li><li><span>不要反复询问群公告已经写了的东西。</span></li><li><span>不发送非法链接及@群成员的JSON卡片。</span></li><li><span>不讨论或分享游戏作弊软件及作弊整合包。</span></li><li><span>不未经当事人或所包含群员同意转发聊天记录。</span></li><li><span>不发送引战、地图炮、人身攻击、诋毁他人等不当言论。</span></li><li><span>不恶意刷屏或做出令群成员普遍反感或激起众怒等争议行为。</span></li><li><span>不发送散播谣言或发布对他人进行诱导的言论，禁止把群名片改为会引起误解的内容。</span></li><li><span>不发送暴力、血腥、三俗、色情、斗图、刷屏、复读、大图占屏、频繁广告、恶意发放刷屏红包等内容。</span></li><li><span>禁止未经他人允许泄露他人的 真实姓名、手机号、家庭住址、身份证号 等隐私信息，根据当事人的意愿处以永久禁言/移出群聊的处罚。</span></li></ol><h3 id='定期事项'><span>定期事项</span></h3><p><span>不定期清理不活跃成员，若有特殊情况者请在群名片备注。</span></p><h2 id='minecraft服务器条款'><span>Minecraft服务器条款</span></h2><h3 id='所有权和有限许可'><span>所有权和有限许可</span></h3><h4 id='所有权'><span>所有权</span></h4><p><span>服务由ProjectRTSN拥有或许可，并受知识产权和其他所有权法律的保护。ProjectRTSN保留对服务的所有权利、所有权和利益，包括但不限于本条款中未明确授予您的所有知识产权和其他专有权利。您对服务的许可使用受ProjectRTSN知识产权的限制。</span></p><h4 id='许可证'><span>许可证</span></h4><p><span>在您同意并持续遵守这些条款和任何其他相关政策的前提下，ProjectRTSN 授予您非商业、非独占、不可转让、可撤销的有限许可，但须遵守这些条款的限制，以出于您自己的娱乐目的访问和使用服务。您同意不会将服务用于任何其他目的。</span></p><h4 id='账号'><span>账号</span></h4><ol start='' ><li><span>您可以通过您的微软帐号（“帐号”）访问 RSN 服务器，并且您同意受这些条款的约束。如果您与其他用户共享帐户，则本协议适用于该帐号的所有用户。帐户所有者有责任确保所有用户都已阅读并遵守这些条款。</span></li><li><span>您同意，如果您的帐户数据被删除，您可能会无法访问与该帐户相关的任何信息。如果您想删除您的帐号数据，请向以下联系人发送邮件：</span><a href='mailto:issue@p-io.org' target='_blank' class='url'>issue@p-io.org</a></li><li><span>我们可能会永久删除其服务上被视为不活跃的帐号数据。当帐号在1年内未使用时，将被视为不活跃帐号。</span></li><li><span>服务器不提供正版购买的服务义务，请玩家私下交流，自行寻找服务渠道。</span></li></ol><h4 id='许可限制'><span>许可限制</span></h4><p><span>严禁违反法律、本服务条款或本许可限制使用、协助或教唆他人使用服务，并可能导致ProjectRTSN自行判断立即撤销您的有限许可并删除您的帐户，或可能使您承担相关责任。</span>
+    <span>您承认您不会直接或间接执行以下操作：</span></p><ol start='' ><li><span>使用任何未经服务器明确授权的游戏方法作弊，影响游戏玩法，或向您或任何其他用户授予您或任何其他用户相对于未使用这些方法的其他玩家的任何优势，包括但不限于漏洞利用，作弊等。</span></li><li><span>在使用服务时，不得以任何方式损坏、禁用、过载或阻碍任何服务器或非法连接到任何服务器的控制台，也不得干扰、限制或禁止任何其他用户使用和享有任何服务。</span></li><li><span>发送垃圾邮件或进行网络钓鱼活动。垃圾邮件是指不想要的或未经请求的大量电子邮件、帖子、联系请求、短信、即时消息或类似的、无意义的电子通信。</span></li><li><span>篡改或删除任何版权管理信息，例如，上传文件中包含的作者归属、法律或其他适当声明、软件或其他材料来源的所有权指示或标示。</span></li><li><span>上传含有病毒、木马、蠕虫、定时炸弹、清除器、损坏文件或任何其他可能损害他人计算机操作或他人财产的类似软件或程序的文件。</span></li><li><span>使用、下载或以其他方式复制、或者向其他人或实体（免费或收费）提供服务用户或其他用户的任何目录、使用信息或其部分信息。</span></li><li><span>尝试通过入侵、盗取密码或任何其他手段擅自使用任何服务、其他帐户、计算机系统或连接到任何服务器或任何服务的控制台。</span></li><li><span>私下使用现实金钱交易，用于任何服务器物品交换、游戏内服务、网站服务、广告宣传、组织或推广任何形式的非法活动。</span></li><li><span>蓄意封堵其他玩家行动的通道，如堵公共传送点，封堵挂机玩家，封堵其他玩家的设备，封堵其他玩家的储物设备等。</span></li><li><span>创建或通过使用现有游戏错误、未记录的问题、服务的设计缺陷或不允许的方法创建或复制任何游戏内物品。</span></li><li><span>由于被其他玩家激怒而导致违反条款，一切责任由激怒方承担，双方冷静后可以与腐竹交涉决定责任分担。</span></li><li><span>以未经服务器授权的任何方式宣传、鼓励或参与任何涉及黑客攻击、网络钓鱼、分发、修改服务的活动。</span></li><li><span>恶意PVP，娱乐性质的PVP请以双方同意为前提，并且请在结束后归还物品或开始前商量好奖惩规定。</span></li><li><span>诽谤、辱骂、骚扰、恐吓、威胁其他人或以其他方式侵犯其他人的合法权利（如隐私权和公开权）。</span></li><li><span>大量无偿赠送物品或低价出售物品或高价垄断某种物品，破坏游戏平衡，冲击服务器经济体系。</span></li><li><span>未经允许、冒充或自称服务器官方至其他群聊、网站、服务宣传或分发IP地址。</span></li><li><span>通过任何手段获取或尝试获取服务未明确提供的任何资料或信息。</span></li><li><span>将服务用于任何非法用途或这些条款、条件和声明禁止的用途。</span></li><li><span>搜集或以其他方式收集他人的相关信息，包括电子邮件地址。</span></li><li><span>恶意破坏他人的游戏数据（建筑、物品、设备）。</span></li><li><span>规避服务的任何访问或可用性限制。</span></li><li><span>违反“群聊社群使用条款”。</span></li></ol><h4 id='隐私'><span>隐私</span></h4><ol start='' ><li><span>您的数据将储存在中国。</span></li><li><span>您同意服务器获取您Minecraft账号的UUID、用户名、皮肤资源、统计信息。</span></li><li><span>在对涉嫌违反这些条款的行为进行调查时，服务器保留对您的内容进行审查以便解决问题的权利。</span></li><li><span>本服务器会为您妥善保存一切您提交或以其它渠道导致服务器获取到的关于您的个人隐私信息，并保护您的个人信息不被滥用以及发布（有相关部门请求协助调查的情况除外）。</span></li></ol><h4 id='服务和终止'><span>服务和终止</span></h4><p><span>您同意并知悉：</span></p><ol start='' ><li><span>服务器的网络延迟、带宽不受保证。</span></li><li><span>服务器可能无法在所有国家或地区提供服务。</span></li><li><span>我们无法时刻为用户提供帮助，请尽量自行解决问题。</span></li><li><span>全权负责因使用我们的服务而可能产生的任何互联网连接和移动费用。</span></li><li><span>可全权酌情决定提供与服务任何部分相关的后续修订、版本、增强、修改、升级或补丁。</span></li><li><span>对服务的访问可能会因服务器网络、硬件、经济状况或之外的原因而中断，并不能也不保证您能够随时使用服务。</span></li><li><span>如果服务终止或暂停，我们有权删除您的数据或账号，您无法获得在本协议终止之前所支付任何金额的任何退款。此外，您将无法访问服务。</span></li></ol><h3 id='服务器声明'><span>服务器声明</span></h3><ol start='' ><li><span>本服务器同意并遵守</span><a href='https://www.minecraft.net/zh-hans/eula'><span>Minecraft EULA（Minecraft最终用户协议）</span></a><span>。</span></li><li><span>任何因玩家个人原因使游戏数据造成损害的，服务器不承担责任。</span></li><li><span>对于任何不懂的红石设备使用请先询问建造者，若机器损坏请及时报修。</span></li><li><span>如果遇到了失误导致的爆炸、破坏请尽可能复原地形，如果无法恢复请联系管理员或服主。</span></li><li><span>本服务器为公益服，仅接受无偿捐助。您同意并知悉无偿捐助将不会给您带来任何回报或报酬。</span></li><li><span>一切对其他玩家不良行为、服务器制度漏洞、服务器bug、服务器改进意见的举报及提出，如果确认属实或合理，都将会视情况给予奖励。</span></li><li><span>以任何方式分发Minecraft客户端违反EULA，本服务器对于玩家自行上传的整合包所造成的一切后果概不负责。本服务器保留对一切用户发表内容应权利人要求删除的行为的权力。</span></li><li><span>任何建筑、机器的设立不得损害他人利益。服务器将有权拆除及其丑陋，影响到主世界美观的、弃坑的玩家的、过久时间没有动工的、烂尾的建筑。本服务器对一切用户发表内容保留将应权利人要求拆除的行为的权力。</span></li></ol><h2 id='协议期限'><span>协议期限</span></h2><p><span>除非本协议修改或修订，否则本协议及其条款应继续有效。</span></p><h2 id='不可抗力'><span>不可抗力</span></h2><p><span>任何一方均不对不可抗力而导致的损失负责。</span></p><h2 id='免责声明'><span>免责声明</span></h2><p><span>对于因使用或执行服务、软件、文档、提供或未能提供服务，或者服务提供的信息引起的或与其相关的使用中断、数据或利润损失，无论是由合同行为、过失或其他侵权行为导致，服务器或其供应商对由此造成的任何特别的、间接的、后果性损害或任何其他损害概不负责。</span></p><p><span>本条款最终解释权归ProjectRTSN所有。</span></p></div></div>
     </div>
 </template>
       
@@ -178,1073 +10,213 @@
 import Header from '../components/header/Header.vue';
 import { useHead } from 'unhead'
 useHead({
-    title: '服务条款(服务器) | ProjectRTSN',
+    title: '服务条款 | ProjectRTSN',
     meta: [
         {
-            name: '服务器服务条款',
-            content: '服务器服务条款',
+            name: '服务条款',
+            content: '服务条款',
         },
     ],
 })
 </script>
 
-<style type='text/css'>
-html {
-    overflow-x: initial !important;
-}
-
-:root {
-    --bg-color: #ffffff;
-    --text-color: #333333;
-    --select-text-bg-color: #B5D6FC;
-    --select-text-font-color: auto;
-    --monospace: "Lucida Console", Consolas, "Courier", monospace;
-    --title-bar-height: 20px;
-}
-
-.mac-os-11 {
-    --title-bar-height: 28px;
-}
-
-html {
-    font-size: 14px;
-    background-color: var(--bg-color);
-    color: var(--text-color);
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    -webkit-font-smoothing: antialiased;
-}
-
-body {
-    margin: 0px;
-    padding: 0px;
-    height: auto;
-    inset: 0px;
-    font-size: 1rem;
-    line-height: 1.428571;
-    overflow-x: hidden;
-    background-image: inherit;
-    background-size: inherit;
-    background-attachment: inherit;
-    background-origin: inherit;
-    background-clip: inherit;
-    background-color: inherit;
-    tab-size: 4;
-    background-position: inherit;
-    background-repeat: inherit;
-}
-
-iframe {
-    margin: auto;
-}
-
-a.url {
-    word-break: break-all;
-}
-
-a:active,
-a:hover {
-    outline: 0px;
-}
-
-.in-text-selection,
-::selection {
-    text-shadow: none;
-    background: var(--select-text-bg-color);
-    color: var(--select-text-font-color);
-}
-
-#write {
-    margin: 0px auto;
-    height: auto;
-    width: inherit;
-    word-break: normal;
-    overflow-wrap: break-word;
-    position: relative;
-    white-space: normal;
-    overflow-x: visible;
-    padding-top: 36px;
-}
-
-#write.first-line-indent p {
-    text-indent: 2em;
-}
-
-#write.first-line-indent li p,
-#write.first-line-indent p * {
-    text-indent: 0px;
-}
-
-#write.first-line-indent li {
-    margin-left: 2em;
-}
-
-.for-image #write {
-    padding-left: 8px;
-    padding-right: 8px;
-}
-
-body.typora-export {
-    padding-left: 30px;
-    padding-right: 30px;
-}
-
-.typora-export .footnote-line,
-.typora-export li,
-.typora-export p {
-    white-space: pre-wrap;
-}
-
-.typora-export .task-list-item input {
-    pointer-events: none;
-}
-
+<style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
+.mac-os-11 { --title-bar-height: 28px; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.428571; overflow-x: hidden; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; tab-size: 4; background-position: inherit; background-repeat: inherit; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
 @media screen and (max-width: 500px) {
-    body.typora-export {
-        padding-left: 0px;
-        padding-right: 0px;
-    }
-
-    #write {
-        padding-left: 20px;
-        padding-right: 20px;
-    }
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
 }
-
-#write li>figure:last-child {
-    margin-bottom: 0.5rem;
-}
-
-#write ol,
-#write ul {
-    position: relative;
-}
-
-img {
-    max-width: 100%;
-    vertical-align: middle;
-    image-orientation: from-image;
-}
-
-button,
-input,
-select,
-textarea {
-    color: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    font-variant-caps: inherit;
-    font-weight: inherit;
-    font-stretch: inherit;
-    line-height: inherit;
-}
-
-input[type="checkbox"],
-input[type="radio"] {
-    line-height: normal;
-    padding: 0px;
-}
-
-*,
-::after,
-::before {
-    box-sizing: border-box;
-}
-
-#write h1,
-#write h2,
-#write h3,
-#write h4,
-#write h5,
-#write h6,
-#write p,
-#write pre {
-    width: inherit;
-}
-
-#write h1,
-#write h2,
-#write h3,
-#write h4,
-#write h5,
-#write h6,
-#write p {
-    position: relative;
-}
-
-p {
-    line-height: inherit;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    break-after: avoid-page;
-    break-inside: avoid;
-    orphans: 4;
-}
-
-p {
-    orphans: 4;
-}
-
-h1 {
-    font-size: 2rem;
-}
-
-h2 {
-    font-size: 1.8rem;
-}
-
-h3 {
-    font-size: 1.6rem;
-}
-
-h4 {
-    font-size: 1.4rem;
-}
-
-h5 {
-    font-size: 1.2rem;
-}
-
-h6 {
-    font-size: 1rem;
-}
-
-.md-math-block,
-.md-rawblock,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-}
-
-.hidden {
-    display: none;
-}
-
-.md-blockmeta {
-    color: rgb(204, 204, 204);
-    font-weight: 700;
-    font-style: italic;
-}
-
-a {
-    cursor: pointer;
-}
-
-sup.md-footnote {
-    padding: 2px 4px;
-    background-color: rgba(238, 238, 238, 0.7);
-    color: rgb(85, 85, 85);
-    border-radius: 4px;
-    cursor: pointer;
-}
-
-sup.md-footnote a,
-sup.md-footnote a:hover {
-    color: inherit;
-    text-transform: inherit;
-    text-decoration: inherit;
-}
-
-#write input[type="checkbox"] {
-    cursor: pointer;
-    width: inherit;
-    height: inherit;
-}
-
-figure {
-    overflow-x: auto;
-    margin: 1.2em 0px;
-    max-width: calc(100% + 16px);
-    padding: 0px;
-}
-
-figure>table {
-    margin: 0px;
-}
-
-thead,
-tr {
-    break-inside: avoid;
-    break-after: auto;
-}
-
-thead {
-    display: table-header-group;
-}
-
-table {
-    border-collapse: collapse;
-    border-spacing: 0px;
-    width: 100%;
-    overflow: auto;
-    break-inside: auto;
-    text-align: left;
-}
-
-table.md-table td {
-    min-width: 32px;
-}
-
-.CodeMirror-gutters {
-    border-right-width: 0px;
-    background-color: inherit;
-}
-
-.CodeMirror-linenumber {}
-
-.CodeMirror {
-    text-align: left;
-}
-
-.CodeMirror-placeholder {
-    opacity: 0.3;
-}
-
-.CodeMirror pre {
-    padding: 0px 4px;
-}
-
-.CodeMirror-lines {
-    padding: 0px;
-}
-
-div.hr:focus {
-    cursor: none;
-}
-
-#write pre {
-    white-space: pre-wrap;
-}
-
-#write.fences-no-line-wrapping pre {
-    white-space: pre;
-}
-
-#write pre.ty-contain-cm {
-    white-space: normal;
-}
-
-.CodeMirror-gutters {
-    margin-right: 4px;
-}
-
-.md-fences {
-    font-size: 0.9rem;
-    display: block;
-    break-inside: avoid;
-    text-align: left;
-    overflow: visible;
-    white-space: pre;
-    background-image: inherit;
-    background-size: inherit;
-    background-attachment: inherit;
-    background-origin: inherit;
-    background-clip: inherit;
-    background-color: inherit;
-    position: relative !important;
-    background-position: inherit;
-    background-repeat: inherit;
-}
-
-.md-fences-adv-panel {
-    width: 100%;
-    margin-top: 10px;
-    text-align: center;
-    padding-top: 0px;
-    padding-bottom: 8px;
-    overflow-x: auto;
-}
-
-#write .md-fences.mock-cm {
-    white-space: pre-wrap;
-}
-
-.md-fences.md-fences-with-lineno {
-    padding-left: 0px;
-}
-
-#write.fences-no-line-wrapping .md-fences.mock-cm {
-    white-space: pre;
-    overflow-x: auto;
-}
-
-.md-fences.mock-cm.md-fences-with-lineno {
-    padding-left: 8px;
-}
-
-.CodeMirror-line,
-twitterwidget {
-    break-inside: avoid;
-}
-
-svg {
-    break-inside: avoid;
-}
-
-.footnotes {
-    opacity: 0.8;
-    font-size: 0.9rem;
-    margin-top: 1em;
-    margin-bottom: 1em;
-}
-
-.footnotes+.footnotes {
-    margin-top: 0px;
-}
-
-.md-reset {
-    margin: 0px;
-    padding: 0px;
-    border: 0px;
-    outline: 0px;
-    vertical-align: top;
-    text-decoration: none;
-    text-shadow: none;
-    float: none;
-    position: static;
-    width: auto;
-    height: auto;
-    white-space: nowrap;
-    cursor: inherit;
-    line-height: normal;
-    font-weight: 400;
-    text-align: left;
-    box-sizing: content-box;
-    direction: ltr;
-    background-position: 0px 0px;
-}
-
-li div {
-    padding-top: 0px;
-}
-
-blockquote {
-    margin: 1rem 0px;
-}
-
-li .mathjax-block,
-li p {
-    margin: 0.5rem 0px;
-}
-
-li blockquote {
-    margin: 1rem 0px;
-}
-
-li {
-    margin: 0px;
-    position: relative;
-}
-
-blockquote> :last-child {
-    margin-bottom: 0px;
-}
-
-blockquote> :first-child,
-li> :first-child {
-    margin-top: 0px;
-}
-
-.footnotes-area {
-    color: rgb(136, 136, 136);
-    margin-top: 0.714rem;
-    padding-bottom: 0.143rem;
-    white-space: normal;
-}
-
-#write .footnote-line {
-    white-space: pre-wrap;
-}
-
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px; }
+thead, tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right-width: 0px; background-color: inherit; }
+.CodeMirror-linenumber { }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; position: relative !important; background-position: inherit; background-repeat: inherit; }
+.md-fences-adv-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+svg { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; background-position: 0px 0px; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li blockquote { margin: 1rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
 @media print {
-
-    body,
-    html {
-        border: 1px solid transparent;
-        height: 99%;
-        break-after: avoid;
-        break-before: avoid;
-        font-variant-ligatures: no-common-ligatures;
-    }
-
-    #write {
-        margin-top: 0px;
-        padding-top: 0px;
-        border-color: transparent !important;
-        padding-bottom: 0px !important;
-    }
-
-    .typora-export * {
-        print-color-adjust: exact;
-    }
-
-    .typora-export #write {
-        break-after: avoid;
-    }
-
-    .typora-export #write::after {
-        height: 0px;
-    }
-
-    .is-mac table {
-        break-inside: avoid;
-    }
-
-    .typora-export-show-outline .typora-export-sidebar {
-        display: none;
-    }
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; padding-bottom: 0px !important; }
+  .typora-export * { print-color-adjust: exact; }
+  .typora-export #write { break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
+  .typora-export-show-outline .typora-export-sidebar { display: none; }
 }
-
-.footnote-line {
-    margin-top: 0.714em;
-    font-size: 0.7em;
-}
-
-a img,
-img a {
-    cursor: pointer;
-}
-
-pre.md-meta-block {
-    font-size: 0.8rem;
-    min-height: 0.8rem;
-    white-space: pre-wrap;
-    background-color: rgb(204, 204, 204);
-    display: block;
-    overflow-x: hidden;
-}
-
-p>.md-image:only-child:not(.md-img-error) img,
-p>img:only-child {
-    display: block;
-    margin: auto;
-}
-
-#write.first-line-indent p>.md-image:only-child:not(.md-img-error) img {
-    left: -2em;
-    position: relative;
-}
-
-p>.md-image:only-child {
-    display: inline-block;
-    width: 100%;
-}
-
-#write .MathJax_Display {
-    margin: 0.8em 0px 0px;
-}
-
-.md-math-block {
-    width: 100%;
-}
-
-.md-math-block:not(:empty)::after {
-    display: none;
-}
-
-.MathJax_ref {
-    fill: currentcolor;
-}
-
-[contenteditable="true"]:active,
-[contenteditable="true"]:focus,
-[contenteditable="false"]:active,
-[contenteditable="false"]:focus {
-    outline: 0px;
-    box-shadow: none;
-}
-
-.md-task-list-item {
-    position: relative;
-    list-style-type: none;
-}
-
-.task-list-item.md-task-list-item {
-    padding-left: 0px;
-}
-
-.md-task-list-item>input {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    margin-left: -1.2em;
-    margin-top: calc(1em - 10px);
-    border: none;
-}
-
-.math {
-    font-size: 1rem;
-}
-
-.md-toc {
-    min-height: 3.58rem;
-    position: relative;
-    font-size: 0.9rem;
-    border-radius: 10px;
-}
-
-.md-toc-content {
-    position: relative;
-    margin-left: 0px;
-}
-
-.md-toc-content::after,
-.md-toc::after {
-    display: none;
-}
-
-.md-toc-item {
-    display: block;
-    color: rgb(65, 131, 196);
-}
-
-.md-toc-item a {
-    text-decoration: none;
-}
-
-.md-toc-inner:hover {
-    text-decoration: underline;
-}
-
-.md-toc-inner {
-    display: inline-block;
-    cursor: pointer;
-}
-
-.md-toc-h1 .md-toc-inner {
-    margin-left: 0px;
-    font-weight: 700;
-}
-
-.md-toc-h2 .md-toc-inner {
-    margin-left: 2em;
-}
-
-.md-toc-h3 .md-toc-inner {
-    margin-left: 4em;
-}
-
-.md-toc-h4 .md-toc-inner {
-    margin-left: 6em;
-}
-
-.md-toc-h5 .md-toc-inner {
-    margin-left: 8em;
-}
-
-.md-toc-h6 .md-toc-inner {
-    margin-left: 10em;
-}
-
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background-color: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+.MathJax_ref { fill: currentcolor; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
 @media screen and (max-width: 48em) {
-    .md-toc-h3 .md-toc-inner {
-        margin-left: 3.5em;
-    }
-
-    .md-toc-h4 .md-toc-inner {
-        margin-left: 5em;
-    }
-
-    .md-toc-h5 .md-toc-inner {
-        margin-left: 6.5em;
-    }
-
-    .md-toc-h6 .md-toc-inner {
-        margin-left: 8em;
-    }
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
 }
-
-a.md-toc-inner {
-    font-size: inherit;
-    font-style: inherit;
-    font-weight: inherit;
-    line-height: inherit;
-}
-
-.footnote-line a:not(.reversefootnote) {
-    color: inherit;
-}
-
-.reversefootnote {
-    font-family: ui-monospace, sans-serif;
-}
-
-.md-attr {
-    display: none;
-}
-
-.md-fn-count::after {
-    content: ".";
-}
-
-code,
-pre,
-samp,
-tt {
-    font-family: var(--monospace);
-}
-
-kbd {
-    margin: 0px 0.1em;
-    padding: 0.1em 0.6em;
-    font-size: 0.8em;
-    color: rgb(36, 39, 41);
-    background-color: rgb(255, 255, 255);
-    border: 1px solid rgb(173, 179, 185);
-    border-radius: 3px;
-    box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset;
-    white-space: nowrap;
-    vertical-align: middle;
-}
-
-.md-comment {
-    color: rgb(162, 127, 3);
-    opacity: 0.6;
-    font-family: var(--monospace);
-}
-
-code {
-    text-align: left;
-}
-
-a.md-print-anchor {
-    white-space: pre !important;
-    border: none !important;
-    display: inline-block !important;
-    position: absolute !important;
-    width: 1px !important;
-    right: 0px !important;
-    outline: 0px !important;
-    text-shadow: initial !important;
-    background-position: 0px 0px !important;
-}
-
-.os-windows.monocolor-emoji .md-emoji {
-    font-family: "Segoe UI Symbol", sans-serif;
-}
-
-.md-diagram-panel>svg {
-    max-width: 100%;
-}
-
-[lang="flow"] svg,
-[lang="mermaid"] svg {
-    max-width: 100%;
-    height: auto;
-}
-
-[lang="mermaid"] .node text {
-    font-size: 1rem;
-}
-
-table tr th {
-    border-bottom-width: 0px;
-}
-
-video {
-    max-width: 100%;
-    display: block;
-    margin: 0px auto;
-}
-
-iframe {
-    max-width: 100%;
-    width: 100%;
-    border: none;
-}
-
-.highlight td,
-.highlight tr {
-    border: 0px;
-}
-
-mark {
-    background-color: rgb(255, 255, 0);
-    color: rgb(0, 0, 0);
-}
-
-.md-html-inline .md-plain,
-.md-html-inline strong,
-mark .md-inline-math,
-mark strong {
-    color: inherit;
-}
-
-.md-expand mark .md-meta {
-    opacity: 0.3 !important;
-}
-
-mark .md-meta {
-    color: rgb(0, 0, 0);
-}
-
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.reversefootnote { font-family: ui-monospace, sans-serif; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background-color: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.6; font-family: var(--monospace); }
+code { text-align: left; }
+a.md-print-anchor { white-space: pre !important; border: none !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; text-shadow: initial !important; background-position: 0px 0px !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom-width: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+mark { background-color: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+.md-expand mark .md-meta { opacity: 0.3 !important; }
+mark .md-meta { color: rgb(0, 0, 0); }
 @media print {
-
-    .typora-export h1,
-    .typora-export h2,
-    .typora-export h3,
-    .typora-export h4,
-    .typora-export h5,
-    .typora-export h6 {
-        break-inside: avoid;
-    }
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
 }
-
-.md-diagram-panel .messageText {
-    stroke: none !important;
-}
-
-.md-diagram-panel .start-state {
-    fill: var(--node-fill);
-}
-
-.md-diagram-panel .edgeLabel rect {
-    opacity: 1 !important;
-}
-
-.md-fences.md-fences-math {
-    font-size: 1em;
-}
-
-.md-fences-advanced:not(.md-focus) {
-    padding: 0px;
-    white-space: nowrap;
-    border: 0px;
-}
-
-.md-fences-advanced:not(.md-focus) {
-    background-image: inherit;
-    background-size: inherit;
-    background-attachment: inherit;
-    background-origin: inherit;
-    background-clip: inherit;
-    background-color: inherit;
-    background-position: inherit;
-    background-repeat: inherit;
-}
-
-.typora-export-show-outline .typora-export-content {
-    max-width: 1440px;
-    margin: auto;
-    display: flex;
-    flex-direction: row;
-}
-
-.typora-export-sidebar {
-    width: 300px;
-    font-size: 0.8rem;
-    margin-top: 80px;
-    margin-right: 18px;
-}
-
-.typora-export-show-outline #write {
-    --webkit-flex: 2;
-    flex: 2 1 0%;
-}
-
-.typora-export-sidebar .outline-content {
-    position: fixed;
-    top: 0px;
-    max-height: 100%;
-    overflow: hidden auto;
-    padding-bottom: 30px;
-    padding-top: 60px;
-    width: 300px;
-}
-
+.md-diagram-panel .messageText { stroke: none !important; }
+.md-diagram-panel .start-state { fill: var(--node-fill); }
+.md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
+.md-fences.md-fences-math { font-size: 1em; }
+.md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
+.md-fences-advanced:not(.md-focus) { background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; background-position: inherit; background-repeat: inherit; }
+.typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
+.typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
+.typora-export-show-outline #write { --webkit-flex: 2; flex: 2 1 0%; }
+.typora-export-sidebar .outline-content { position: fixed; top: 0px; max-height: 100%; overflow: hidden auto; padding-bottom: 30px; padding-top: 60px; width: 300px; }
 @media screen and (max-width: 1024px) {
-
-    .typora-export-sidebar,
-    .typora-export-sidebar .outline-content {
-        width: 240px;
-    }
+  .typora-export-sidebar, .typora-export-sidebar .outline-content { width: 240px; }
 }
-
 @media screen and (max-width: 800px) {
-    .typora-export-sidebar {
-        display: none;
-    }
+  .typora-export-sidebar { display: none; }
 }
-
-.outline-content li,
-.outline-content ul {
-    margin-left: 0px;
-    margin-right: 0px;
-    padding-left: 0px;
-    padding-right: 0px;
-    list-style: none;
-}
-
-.outline-content ul {
-    margin-top: 0px;
-    margin-bottom: 0px;
-}
-
-.outline-content strong {
-    font-weight: 400;
-}
-
-.outline-expander {
-    width: 1rem;
-    height: 1.428571rem;
-    position: relative;
-    display: table-cell;
-    vertical-align: middle;
-    cursor: pointer;
-    padding-left: 4px;
-}
-
-.outline-expander::before {
-    content: "";
-    position: relative;
-    font-family: Ionicons;
-    display: inline-block;
-    font-size: 8px;
-    vertical-align: middle;
-}
-
-.outline-item {
-    padding-top: 3px;
-    padding-bottom: 3px;
-    cursor: pointer;
-}
-
-.outline-expander:hover::before {
-    content: "";
-}
-
-.outline-h1>.outline-item {
-    padding-left: 0px;
-}
-
-.outline-h2>.outline-item {
-    padding-left: 1em;
-}
-
-.outline-h3>.outline-item {
-    padding-left: 2em;
-}
-
-.outline-h4>.outline-item {
-    padding-left: 3em;
-}
-
-.outline-h5>.outline-item {
-    padding-left: 4em;
-}
-
-.outline-h6>.outline-item {
-    padding-left: 5em;
-}
-
-.outline-label {
-    cursor: pointer;
-    display: table-cell;
-    vertical-align: middle;
-    text-decoration: none;
-    color: inherit;
-}
-
-.outline-label:hover {
-    text-decoration: underline;
-}
-
-.outline-item:hover {
-    border-color: rgb(245, 245, 245);
-    background-color: var(--item-hover-bg-color);
-}
-
-.outline-item:hover {
-    margin-left: -28px;
-    margin-right: -28px;
-    border-left-width: 28px;
-    border-left-style: solid;
-    border-left-color: transparent;
-    border-right-width: 28px;
-    border-right-style: solid;
-    border-right-color: transparent;
-}
-
-.outline-item-single .outline-expander::before,
-.outline-item-single .outline-expander:hover::before {
-    display: none;
-}
-
-.outline-item-open>.outline-item>.outline-expander::before {
-    content: "";
-}
-
-.outline-children {
-    display: none;
-}
-
-.info-panel-tab-wrapper {
-    display: none;
-}
-
-.outline-item-open>.outline-children {
-    display: block;
-}
-
-.typora-export .outline-item {
-    padding-top: 1px;
-    padding-bottom: 1px;
-}
-
-.typora-export .outline-item:hover {
-    margin-right: -8px;
-    border-right-width: 8px;
-    border-right-style: solid;
-    border-right-color: transparent;
-}
-
-.typora-export .outline-expander::before {
-    content: "+";
-    font-family: inherit;
-    top: -1px;
-}
-
-.typora-export .outline-expander:hover::before,
-.typora-export .outline-item-open>.outline-item>.outline-expander::before {
-    content: "−";
-}
-
-.typora-export-collapse-outline .outline-children {
-    display: none;
-}
-
-.typora-export-collapse-outline .outline-item-open>.outline-children,
-.typora-export-no-collapse-outline .outline-children {
-    display: block;
-}
-
-.typora-export-no-collapse-outline .outline-expander::before {
-    content: "" !important;
-}
-
-.typora-export-show-outline .outline-item-active>.outline-item .outline-label {
-    font-weight: 700;
-}
-
-.md-inline-math-container mjx-container {
-    zoom: 0.95;
-}
-
-mjx-container {
-    break-inside: avoid;
-}
+.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; }
+.outline-content ul { margin-top: 0px; margin-bottom: 0px; }
+.outline-content strong { font-weight: 400; }
+.outline-expander { width: 1rem; height: 1.428571rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
+.outline-expander::before { content: ""; position: relative; font-family: Ionicons; display: inline-block; font-size: 8px; vertical-align: middle; }
+.outline-item { padding-top: 3px; padding-bottom: 3px; cursor: pointer; }
+.outline-expander:hover::before { content: ""; }
+.outline-h1 > .outline-item { padding-left: 0px; }
+.outline-h2 > .outline-item { padding-left: 1em; }
+.outline-h3 > .outline-item { padding-left: 2em; }
+.outline-h4 > .outline-item { padding-left: 3em; }
+.outline-h5 > .outline-item { padding-left: 4em; }
+.outline-h6 > .outline-item { padding-left: 5em; }
+.outline-label { cursor: pointer; display: table-cell; vertical-align: middle; text-decoration: none; color: inherit; }
+.outline-label:hover { text-decoration: underline; }
+.outline-item:hover { border-color: rgb(245, 245, 245); background-color: var(--item-hover-bg-color); }
+.outline-item:hover { margin-left: -28px; margin-right: -28px; border-left-width: 28px; border-left-style: solid; border-left-color: transparent; border-right-width: 28px; border-right-style: solid; border-right-color: transparent; }
+.outline-item-single .outline-expander::before, .outline-item-single .outline-expander:hover::before { display: none; }
+.outline-item-open > .outline-item > .outline-expander::before { content: ""; }
+.outline-children { display: none; }
+.info-panel-tab-wrapper { display: none; }
+.outline-item-open > .outline-children { display: block; }
+.typora-export .outline-item { padding-top: 1px; padding-bottom: 1px; }
+.typora-export .outline-item:hover { margin-right: -8px; border-right-width: 8px; border-right-style: solid; border-right-color: transparent; }
+.typora-export .outline-expander::before { content: "+"; font-family: inherit; top: -1px; }
+.typora-export .outline-expander:hover::before, .typora-export .outline-item-open > .outline-item > .outline-expander::before { content: "−"; }
+.typora-export-collapse-outline .outline-children { display: none; }
+.typora-export-collapse-outline .outline-item-open > .outline-children, .typora-export-no-collapse-outline .outline-children { display: block; }
+.typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
+.typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
+.md-inline-math-container mjx-container { zoom: 0.95; }
+mjx-container { break-inside: avoid; }
 
 
 /* roboto-300 - latin */
@@ -1259,14 +231,12 @@ mjx-container {
 /* roboto-900italic - latin */
 /* sorucecodepro-400 - latin */
 @font-face {
-    font-family: 'Source Code Pro';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Source Code Pro'), local('SourceCodePro-Regular'),
-        url('file:///Users/hoige/Library/Application%20Support/abnerworks.Typora/themes/gitbook/SourceCodePro-Regular.ttf') format('truetype');
-}
-
-@import "";
+     font-family: 'Source Code Pro';
+     font-style: normal;
+     font-weight: 400;
+     src: local('Source Code Pro'), local('SourceCodePro-Regular'),
+     url('file:///Users/hoige/Library/Application%20Support/abnerworks.Typora/themes/gitbook/SourceCodePro-Regular.ttf') format('truetype');
+}@import "";
 
 /*by 16soundsofsilence, yes this code is an absolute mess*/
 
@@ -1356,8 +326,8 @@ body {
     width: 100%;
 }
 
-#write>ul:first-child,
-#write>ol:first-child {
+#write > ul:first-child,
+#write > ol:first-child {
     margin-top: 30px;
 }
 
@@ -1485,12 +455,12 @@ h6 {
     margin-bottom: 0.5rem;
 }
 
-#write>h1.md-focus:before,
-#write>h2.md-focus:before,
-#write>h3.md-focus:before,
-#write>h4.md-focus:before,
-#write>h5.md-focus:before,
-#write>h6.md-focus:before {
+#write > h1.md-focus:before,
+#write > h2.md-focus:before,
+#write > h3.md-focus:before,
+#write > h4.md-focus:before,
+#write > h5.md-focus:before,
+#write > h6.md-focus:before {
     color: var(--light-text-color);
     border: none;
     position: absolute;
@@ -1500,37 +470,37 @@ h6 {
     line-height: 1;
 }
 
-#write>h1.md-focus:before {
+#write > h1.md-focus:before {
     content: "h1";
     top: 1.15rem;
     left: -1.75rem;
 }
 
-#write>h2.md-focus:before {
+#write > h2.md-focus:before {
     content: "h2";
     top: 0.75rem;
     left: -1.75rem;
 }
 
-#write>h3.md-focus:before {
+#write > h3.md-focus:before {
     content: "h3";
     top: 0.575rem;
     left: -1.75rem;
 }
 
-#write>h4.md-focus:before {
+#write > h4.md-focus:before {
     content: "h4";
     top: 0.4rem;
     left: -1.75rem;
 }
 
-#write>h5.md-focus:before {
+#write > h5.md-focus:before {
     content: "h5";
     top: 0.25rem;
     left: -1.75rem;
 }
 
-#write>h6.md-focus:before {
+#write > h6.md-focus:before {
     content: "h6";
     top: 0.25rem;
     left: -1.75rem;
@@ -1559,8 +529,8 @@ dl {
     margin: 0.5rem 0rem 1.5rem 0rem;
 }
 
-li>ol,
-li>ul {
+li > ol,
+li > ul {
     margin: 0 0;
 }
 
@@ -1614,8 +584,7 @@ blockquote {
     border-left: 4px solid var(--primary-color);
     border-radius: 0.3rem;
     padding: 1rem;
-    border-right: 4px solid var(--boxes);
-    /* removes arc with tiny blue color from top-right and bottom-right corner */
+    border-right: 4px solid var(--boxes); /* removes arc with tiny blue color from top-right and bottom-right corner */
 }
 
 blockquote blockquote {
@@ -1691,7 +660,7 @@ table tr td:last-child {
     transition-property: opacity;
 }
 
-.ty-table-edit+.md-table {
+.ty-table-edit + .md-table {
     margin-top: 3rem;
 }
 
@@ -1799,10 +768,10 @@ table tr td:last-child {
 
 .cm-s-inner .CodeMirror-line::selection,
 .cm-s-inner .CodeMirror-line::-moz-selection,
-.cm-s-inner .CodeMirror-line>span::selection,
-.cm-s-inner .CodeMirror-line>span::-moz-selection,
-.cm-s-inner .CodeMirror-line>span>span::selection,
-.cm-s-inner .CodeMirror-line>span>span::-moz-selection {
+.cm-s-inner .CodeMirror-line > span::selection,
+.cm-s-inner .CodeMirror-line > span::-moz-selection,
+.cm-s-inner .CodeMirror-line > span > span::selection,
+.cm-s-inner .CodeMirror-line > span > span::-moz-selection {
     background-color: rgba(255, 255, 255, 0.1);
 }
 
@@ -1887,12 +856,9 @@ table tr td:last-child {
     background-color: rgba(255, 255, 255, 0.1);
 }
 
-.cm-s-inner .cm-search-hit.CodeMirror-selected,
-.cm-s-inner .cm-search-hit.CodeMirror-selectedtext {
-    background: var(--select-text-bg-color) !important;
-}
-
-/* removes black background from code search selected */
+.cm-s-inner .cm-search-hit.CodeMirror-selected, .cm-s-inner .cm-search-hit.CodeMirror-selectedtext {
+    background: var(--select-text-bg-color)!important;
+} /* removes black background from code search selected */
 
 .cm-s-typora-default .cm-header,
 .cm-s-typora-default .cm-property {
@@ -1998,9 +964,7 @@ code {
 }
 
 .md-diagram-panel text {
-    fill: var(--text-color) !important
-        /*required*/
-    ;
+    fill: var(--text-color) !important /*required*/;
 }
 
 .md-diagram-panel-error {
@@ -2009,7 +973,7 @@ code {
 
 /*CHECKBOXES*/
 
-.md-task-list-item>input:before,
+.md-task-list-item > input:before,
 input[type="checkbox"]:before {
     border-radius: 0.2rem;
     margin-top: -0.08rem;
@@ -2023,25 +987,25 @@ input[type="checkbox"]:before {
     transition-property: background-color;
 }
 
-.md-task-list-item:hover>input:before,
+.md-task-list-item:hover > input:before,
 input[type="checkbox"]:hover:before {
     background-color: var(--boxes-darker);
 }
 
-.md-task-list-item>input:checked:before,
-.md-task-list-item>input[checked]:before,
+.md-task-list-item > input:checked:before,
+.md-task-list-item > input[checked]:before,
 input[type="checkbox"]:checked:before {
     background-color: var(--primary-color);
 }
 
-.md-task-list-item:hover>input:checked:before,
-.md-task-list-item:hover>input[checked]:before,
+.md-task-list-item:hover > input:checked:before,
+.md-task-list-item:hover > input[checked]:before,
 input[type="checkbox"]:hover:checked:before {
     background-color: var(--primary-color-darker);
 }
 
-.md-task-list-item>input:after,
-.md-task-list-item>input:after,
+.md-task-list-item > input:after,
+.md-task-list-item > input:after,
 input[type="checkbox"]:after {
     transform: rotate(-45deg);
     position: absolute;
@@ -2058,8 +1022,8 @@ input[type="checkbox"]:after {
     transition-property: opacity;
 }
 
-.md-task-list-item>input:checked:after,
-.md-task-list-item>input[checked]:after,
+.md-task-list-item > input:checked:after,
+.md-task-list-item > input[checked]:after,
 input[type="checkbox"]:checked:after {
     opacity: 1;
 }
@@ -2105,7 +1069,7 @@ input[type="checkbox"]:checked:after {
     color: var(--light-text-color);
 }
 
-.md-image>.md-meta {
+.md-image > .md-meta {
     border-radius: 3px;
     padding: 2px 0px 0px 4px;
     font-size: 0.9em;
@@ -2139,7 +1103,7 @@ input[type="checkbox"]:checked:after {
     margin-top: 4.5rem;
 }
 
-#write div.md-toc-tooltip+.md-toc-content {
+#write div.md-toc-tooltip + .md-toc-content {
     padding-top: 1rem;
 }
 
@@ -2208,7 +1172,7 @@ input[type="checkbox"]:checked:after {
     opacity: 1;
 }
 
-.md-rawblock-on-edit>.md-rawblock-tooltip {
+.md-rawblock-on-edit > .md-rawblock-tooltip {
     padding-right: 0px;
 }
 
@@ -2464,9 +1428,7 @@ body.o #typora-sidebar .ty-search-item-line {
 #typora-sidebar .ty-search-item-line.active {
     background-color: var(--select-text-bg-color);
     color: white;
-}
-
-/* makes easier identifying which searched item is active in the sidebar */
+} /* makes easier identifying which searched item is active in the sidebar */
 
 #typora-sidebar .file-list-item-file-name {
     font-weight: 800;
@@ -2588,12 +1550,12 @@ body.o #typora-sidebar .ty-search-item-line {
 }
 
 /*no left border*/
-#typora-sidebar .file-tree-node.active>.file-node-background {
+#typora-sidebar .file-tree-node.active > .file-node-background {
     border: none;
 }
 
 /*no dotted highlighting*/
-.file-library-node:not(.file-node-root):focus>.file-node-content {
+.file-library-node:not(.file-node-root):focus > .file-node-content {
     outline: none;
 }
 
@@ -2614,12 +1576,17 @@ body.o #typora-sidebar .ty-search-item-line {
     transition-property: background-color, color;
 }
 
-#typora-sidebar #ty-sidebar-footer li:not(.file-sort-item):not(:first-child):not(.empty-menu-group):not(.folder-menu-group):hover {
+#typora-sidebar
+    #ty-sidebar-footer
+    li:not(.file-sort-item):not(:first-child):not(.empty-menu-group):not(.folder-menu-group):hover {
     color: var(--primary-color);
     background-color: var(--boxes);
 }
 
-#typora-sidebar #ty-sidebar-footer .file-action-item.file-sort-item>span:first-of-type {
+#typora-sidebar
+    #ty-sidebar-footer
+    .file-action-item.file-sort-item
+    > span:first-of-type {
     line-height: 2rem;
 }
 
@@ -2628,12 +1595,15 @@ body.o #typora-sidebar .ty-search-item-line {
     cursor: pointer;
 }
 
-body.html-for-mac .file-tree-node:not(.file-node-root):not(.file-node-expanded) .file-node-background {
+body.html-for-mac
+    .file-tree-node:not(.file-node-root):not(.file-node-expanded)
+    .file-node-background {
     transition-duration: 0.2s;
     transition-property: background-color;
 }
 
-.file-tree-node:not(.file-node-root):not(.file-node-expanded):hover .file-node-background {
+.file-tree-node:not(.file-node-root):not(.file-node-expanded):hover
+    .file-node-background {
     background-color: var(--borders);
 }
 
@@ -2662,15 +1632,9 @@ body.html-for-mac .file-tree-node:not(.file-node-root):not(.file-node-expanded) 
 }
 
 #typora-quick-open-input .input {
-    box-shadow: none !important
-        /*required*/
-    ;
-    border: none !important
-        /*required*/
-    ;
-    font-weight: 400 !important
-        /*required*/
-    ;
+    box-shadow: none !important /*required*/;
+    border: none !important /*required*/;
+    font-weight: 400 !important /*required*/;
     margin: 0.5rem;
     margin-left: 0.8rem;
 }
@@ -2846,7 +1810,7 @@ body.html-for-mac .file-tree-node:not(.file-node-root):not(.file-node-expanded) 
 }
 
 /*preferences stuff*/
-.ty-preferences .dropdown-menu>li,
+.ty-preferences .dropdown-menu > li,
 .dropdown-item {
     font-weight: 500;
     font-size: 1rem;
@@ -2872,9 +1836,7 @@ body.html-for-mac .file-tree-node:not(.file-node-root):not(.file-node-expanded) 
 /*preferences export*/
 
 .export-detail {
-    background-color: transparent !important
-        /*required*/
-    ;
+    background-color: transparent !important /*required*/;
 }
 
 .export-items-list .separator {
@@ -2883,28 +1845,20 @@ body.html-for-mac .file-tree-node:not(.file-node-root):not(.file-node-expanded) 
 }
 
 .export-items-list-control {
-    background-color: var(--boxes) !important
-        /*required*/
-    ;
+    background-color: var(--boxes) !important /*required*/;
 }
 
 .export-item {
-    padding: 0.4rem !important
-        /*required*/
-    ;
+    padding: 0.4rem !important /*required*/;
     color: var(--light-text-color-darker);
     font-weight: 500;
     cursor: pointer;
 }
 
 .export-item.active {
-    background-color: transparent !important
-        /*required*/
-    ;
+    background-color: transparent !important /*required*/;
     color: var(--primary-color);
-    font-weight: 500 !important
-        /*required*/
-    ;
+    font-weight: 500 !important /*required*/;
 }
 
 /*DROPDOWN*/
@@ -2917,7 +1871,7 @@ body.html-for-mac .file-tree-node:not(.file-node-root):not(.file-node-expanded) 
     user-select: none;
 }
 
-.dropdown-menu>li>a,
+.dropdown-menu > li > a,
 .auto-suggest-container li {
     font-weight: 500;
     font-size: 0.8rem;
@@ -2925,11 +1879,11 @@ body.html-for-mac .file-tree-node:not(.file-node-root):not(.file-node-expanded) 
     transition-property: all;
 }
 
-.dropdown-menu>.active>a,
-.dropdown-menu>li>a:hover,
+.dropdown-menu > .active > a,
+.dropdown-menu > li > a:hover,
 .menu-style-btn.active,
-.context-menu.dropdown-menu>.active>a,
-.context-menu.dropdown-menu>li>a:hover,
+.context-menu.dropdown-menu > .active > a,
+.context-menu.dropdown-menu > li > a:hover,
 .auto-suggest-container li:hover,
 .auto-suggest-container li.active {
     color: var(--primary-color);
@@ -3035,7 +1989,7 @@ button.active,
     border-radius: 0.3rem 0rem 0rem 0.3rem !important;
 }
 
-.open>.dropdown-toggle.btn-primary {
+.open > .dropdown-toggle.btn-primary {
     background-color: var(--primary-color);
     border-color: transparent;
 }
@@ -3169,12 +2123,8 @@ button.active,
 }
 
 .clear-btn-icon {
-    top: 9px !important
-        /*required*/
-    ;
-    right: 9px !important
-        /*required*/
-    ;
+    top: 9px !important /*required*/;
+    right: 9px !important /*required*/;
 }
 
 .content tr.search-hit,
@@ -3191,9 +2141,7 @@ button.active,
 
 .md-search-hit.md-search-select {
     background-color: var(--select-text-bg-color);
-}
-
-/* distinguishes text search selected from text search matched */
+} /* distinguishes text search selected from text search matched */
 
 /*ZOOM HINT*/
 
@@ -3251,19 +2199,13 @@ button.active,
 .searchpanel-search-option-btn {
     top: 9px;
     border: none;
-    color: var(--light-text-color-darker) !important
-        /*required*/
-    ;
+    color: var(--light-text-color-darker) !important /*required*/;
     transition-duration: 0.3s;
 }
 
 .searchpanel-search-option-btn:hover {
-    color: var(--primary-color) !important
-        /*required*/
-    ;
-    background-color: transparent !important
-        /*required*/
-    ;
+    color: var(--primary-color) !important /*required*/;
+    background-color: transparent !important /*required*/;
 }
 
 .searchpanel-search-option-btn.select,
@@ -3624,9 +2566,7 @@ textarea:focus {
 
 #about-content tbody tr:hover {
     color: var(--primary-color);
-    background-color: var(--boxes) !important
-        /*required important*/
-    ;
+    background-color: var(--boxes) !important /*required important*/;
 }
 
 .long-btn {
@@ -3647,9 +2587,7 @@ textarea:focus {
 .long-btn:hover {
     background-color: var(--primary-color);
     border: 1px solid transparent;
-    color: white !important
-        /*important required*/
-    ;
+    color: white !important /*important required*/;
     box-shadow: rgba(116, 129, 141, 0.1) 2px 2px 6px,
         rgba(56, 132, 255, 0.2) 0px 0px 10px;
 }
@@ -3719,9 +2657,7 @@ textarea:focus {
 }
 
 .megamenu-menu-panel tbody tr:hover {
-    background-color: var(--borders) !important
-        /*required important*/
-    ;
+    background-color: var(--borders) !important /*required important*/;
 }
 
 /*MIN MAX CLOSE*/
@@ -3782,18 +2718,5 @@ kbd {
 }
 
 
-@media print {
-    @page {
-        margin: 0 0 0 0;
-    }
-
-    body.typora-export {
-        padding-left: 0;
-        padding-right: 0;
-    }
-
-    #write {
-        padding: 0;
-    }
-}
+ @media print { @page {margin: 0 0 0 0;} body.typora-export {padding-left: 0; padding-right: 0;} #write {padding:0;}}
 </style>
