@@ -6,7 +6,7 @@
         <div class="main">
           <div class="t-0 w-740px">
             <div class="p-t-2px p-b-2px p-r-4px p-l-4px max-w-100%">
-              <div id="markdown-container"></div>
+              
             </div>
           </div>
         </div>
@@ -21,30 +21,6 @@ import Footer from '../components/footer/Footer.vue'
 import Header from '../components/header/Header.vue';
 </script>
 
-<script>
-import Markdoc from '@markdoc/markdoc'
-import axios from 'axios';
-export default {
-  data() {
-    return {
-      markdown: ''
-    }
-  },
-  methods: {
-    getText() {
-      axios.get('http://localhost:1337/api/articles/1')
-        .then(response => {
-          const ast = Markdoc.parse(response.data.data.attributes.content);
-          const content = Markdoc.transform(ast);
-          document.getElementById('markdown-container').innerHTML = Markdoc.renderers.html(content)
-        });
-    }
-  },
-  created() {
-    this.getText()
-  }
-}
-</script>
 <style scoped>
 .main {
   position: absolute;
